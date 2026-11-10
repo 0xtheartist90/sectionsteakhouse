@@ -31,7 +31,6 @@ export const metadata: Metadata = {
     metadataBase: new URL(siteUrl),
     title,
     description,
-    icons: { icon: '/brand/logo-house.svg' },
     openGraph: { title, description, images: ['/og.jpg'], type: 'website', locale: 'en_CA' }
 };
 
@@ -45,3 +44,4 @@ const Layout = ({ children }: Readonly<{ children: ReactNode }>) => (
 );
 
 export default Layout;
+
