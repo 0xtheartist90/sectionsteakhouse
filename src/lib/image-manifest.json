@@ -1,0 +1,254 @@
+{
+ "/images/bar-counter.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "variants": [
+   {
+    "src": "/images/bar-counter-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/bar-counter-lg.webp",
+    "w": 1080
+   }
+  ]
+ },
+ "/images/bar.jpg": {
+  "w": 2400,
+  "h": 1600,
+  "variants": [
+   {
+    "src": "/images/bar-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/bar-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/caviar-bites.jpg": {
+  "w": 2400,
+  "h": 3200,
+  "variants": [
+   {
+    "src": "/images/caviar-bites-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/caviar-bites-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/cheeseburger.jpg": {
+  "w": 1350,
+  "h": 2400,
+  "variants": [
+   {
+    "src": "/images/cheeseburger-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/cheeseburger-lg.webp",
+    "w": 1350
+   }
+  ]
+ },
+ "/images/cocktail-leaf.jpg": {
+  "w": 2400,
+  "h": 3000,
+  "variants": [
+   {
+    "src": "/images/cocktail-leaf-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/cocktail-leaf-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/dining-room-windows.jpg": {
+  "w": 2400,
+  "h": 1597,
+  "variants": [
+   {
+    "src": "/images/dining-room-windows-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/dining-room-windows-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/dining-room.jpg": {
+  "w": 2400,
+  "h": 1597,
+  "variants": [
+   {
+    "src": "/images/dining-room-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/dining-room-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/house-evening.jpg": {
+  "w": 2400,
+  "h": 1597,
+  "variants": [
+   {
+    "src": "/images/house-evening-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/house-evening-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/lobster-caviar-rolls.jpg": {
+  "w": 1800,
+  "h": 2400,
+  "variants": [
+   {
+    "src": "/images/lobster-caviar-rolls-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/lobster-caviar-rolls-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/lobster-roll.jpg": {
+  "w": 2400,
+  "h": 1800,
+  "variants": [
+   {
+    "src": "/images/lobster-roll-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/lobster-roll-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/old-fashioned.jpg": {
+  "w": 2400,
+  "h": 3606,
+  "variants": [
+   {
+    "src": "/images/old-fashioned-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/old-fashioned-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/oysters.jpg": {
+  "w": 2400,
+  "h": 3200,
+  "variants": [
+   {
+    "src": "/images/oysters-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/oysters-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/porch-sign.jpg": {
+  "w": 2400,
+  "h": 3606,
+  "variants": [
+   {
+    "src": "/images/porch-sign-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/porch-sign-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/red-room.jpg": {
+  "w": 2400,
+  "h": 4267,
+  "variants": [
+   {
+    "src": "/images/red-room-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/red-room-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/sliced-steak.jpg": {
+  "w": 1800,
+  "h": 2400,
+  "variants": [
+   {
+    "src": "/images/sliced-steak-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/sliced-steak-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/steak-dinner.jpg": {
+  "w": 2400,
+  "h": 3200,
+  "variants": [
+   {
+    "src": "/images/steak-dinner-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/steak-dinner-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/tartare-caviar.jpg": {
+  "w": 1807,
+  "h": 2400,
+  "variants": [
+   {
+    "src": "/images/tartare-caviar-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/tartare-caviar-lg.webp",
+    "w": 1800
+   }
+  ]
+ },
+ "/images/tuna-crudo.jpg": {
+  "w": 2400,
+  "h": 3200,
+  "variants": [
+   {
+    "src": "/images/tuna-crudo-sm.webp",
+    "w": 800
+   },
+   {
+    "src": "/images/tuna-crudo-lg.webp",
+    "w": 1800
+   }
+  ]
+ }
+}
